@@ -1,17 +1,22 @@
+![repository-open-graph-template](https://user-images.githubusercontent.com/10222455/214014018-dbbad592-2534-417b-9925-7b7354ce44b5.png)
 
-## What is inside?
-
-This project uses lot of stuff as:
-
-- [TypeScript](https://www.typescriptlang.org/)
+# What is inside?
 - [NextJS](https://nextjs.org/)
-- [Styled Components](https://styled-components.com/)
-- [Jest](https://jestjs.io/)
-- [React Testing Library](https://testing-library.com/docs/react-testing-library/intro)
-- [Storybook](https://storybook.js.org/)
+
+## Code Quality tools
+- [TypeScript](https://www.typescriptlang.org/)
 - [Eslint](https://eslint.org/)
 - [Prettier](https://prettier.io/)
 - [Husky](https://github.com/typicode/husky)
+
+## Unit test
+- [Jest](https://jestjs.io/)
+- [React Testing Library](https://testing-library.com/docs/react-testing-library/intro)
+
+## Other tools
+- [Styled Components](https://styled-components.com/)
+- [Storybook](https://storybook.js.org/)
+
 
 ## Getting Started
 
@@ -38,17 +43,4 @@ You can start editing the page by modifying `pages/index.js`. The page auto-upda
 - `storybook`: runs storybook on `localhost:6006`
 - `build-storybook`: create the build version of storybook
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/import?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Visite my website: https://isaiasfrancisco.com.br/
